@@ -8,9 +8,9 @@ I was looking around for some good exercises to make the Linked List learnings I
 
 To build using Rake, you will need Ruby, Rubygems and the Rake gem installed. If you have a Mac with Leopard or Snow Leopard on it, you already have what you need.
 
-    rake SOURCE_FILE
+    rake SOURCE_FILE_WITHOUT_EXT
 
-To build an individual solution. Like:
+To build an individual solution where the output binary has the same basename of the source file. Like:
 
     rake 15-mergesort-test
     ./15-mergesort-test
@@ -29,7 +29,7 @@ The Rake task's are just a thin layer on the following:
 Like:
 
     gcc -c -o src/linked-list-problems.o src/linked-list-problems.c
-    gcc -o 15-mergesort-test src/15-mergesort-test src/linked-list-problems.o
+    gcc -o 15-mergesort-test src/15-mergesort-test.c src/linked-list-problems.o
 
 ## TODO
 
