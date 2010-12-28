@@ -1,6 +1,6 @@
 # Linked List Problems
 
-I was looking around for some good exercises to make the Linked List learnings I've been (reading "[Mastering Algorithms with C](http://amzn.to/ex3OzO)") doing stick and after a search on Google I found Stanford's [LinkListProblems.pdf](http://cslibrary.stanford.edu/105/). It was pretty helpful and fun. These are my solutions to those.
+I was looking around for some good exercises to make the Linked List learnings I've been doing stick (reading "[Mastering Algorithms with C](http://amzn.to/ex3OzO)"). After a search on Google I found Stanford's [LinkListProblems.pdf](http://cslibrary.stanford.edu/105/). It was pretty helpful and fun. These are my solutions to those.
 
 ## Building
 
